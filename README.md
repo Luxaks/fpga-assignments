@@ -15,8 +15,8 @@ The SOC projects were solo assignments. The APM assignments were done in collabo
 Note that the majority of the documentation and comments are in Romanian, though I doubt anyone looking at this doesn't speak it.
 
 ### SOC
-1. The folder [`tema_mealy`](tema-mealy/) contains a [Mealy automaton](https://en.wikipedia.org/wiki/Mealy_machine/) simulating a soda vending machine, done as homework
-2. The folder [`test_moore`](test_moore/) contains a [Moore machine](https://en.wikipedia.org/wiki/Moore_machine/) which detects a bit sequence, originally done as part of the final exam
+1. The folder [`tema-mealy`](tema-mealy/) contains a [Mealy automaton](https://en.wikipedia.org/wiki/Mealy_machine/) simulating a soda vending machine, done as homework
+2. The folder [`test-moore`](test-moore/) contains a [Moore machine](https://en.wikipedia.org/wiki/Moore_machine/) which detects a bit sequence, originally done as part of the final exam
 
 ### APM
 1. The folder [`t1-sap`](t1-sap/) contains an implementation for the [SAP-1](https://en.wikipedia.org/wiki/Simple-As-Possible_computer/) architecture, based on [this repository](https://github.com/raresifrim/sap1-single-cycle-public/). The FPGA synth doesn't work properly, but the simulation works (or at least worked, I think I messed it up trying to fix it)
