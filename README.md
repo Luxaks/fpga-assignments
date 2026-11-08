@@ -21,3 +21,4 @@ Note that the majority of the documentation and comments are in Romanian, though
 ### APM
 1. The folder `t1-sap` contains an implementation for the [SAP-1](https://en.wikipedia.org/wiki/Simple-As-Possible_computer/) architecture, based on [this repository](https://github.com/raresifrim/sap1-single-cycle-public/). The FPGA synth doesn't work properly, but the simulation works (or at least worked, I think I messed it up trying to fix it)
 2. The folder `t2-riscv-fd` contains an implementation for the [RISC-V](https://en.wikipedia.org/wiki/RISC-V/) architecture, based on the [relevant documentation](t2-riscv-fd/docs/). Note that this part includes only the `IF` (instruction fetch) and `ID` (instruction decode) stages, so the processor so far only goes through the instructions and breaks them into their constituents, without actually executing anything.
+3. ***TBA***
